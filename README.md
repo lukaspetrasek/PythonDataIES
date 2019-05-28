@@ -107,15 +107,14 @@ The requirement for passing the course are DataCamp assignments (6x5pts) and the
  2. XPaths and Selectors
  3. CSS Locators, Chaining, and Responses
  
-**Assignment 5** - Submission on 27/3 (Importing Data in Python (Part 2) Course)
- 1. Importing data from the Internet
- 2. Interacting with APIs to import data from the web
- 3. Diving deep into the Twitter API
-
-**Assignment 6** - Submission on 10/4 (Merging DataFrames with pandas Course)
- 1. Concatenating and merging data
- 2. Rearranging and reshaping data
- 3. Grouping data
+**Assignment 5** - Submission on 5/4
+ 1. The Intro to SQL for Data Science (full course)
+ 
+**Assignment 6** - Submission on 10/4 
+ 1. Concatenating data (Merging DataFrames with pandas)
+ 2. Merging data (Merging DataFrames with pandas)
+ 2. Rearranging and reshaping data  (Manipulating DataFrames with pandas)
+ 3. Grouping data (Manipulating DataFrames with pandas)
 
 ## Final project (70%)
 **Description:**
@@ -170,5 +169,6 @@ The Jupyter notebook with [IES web parser](/IES_Web.ipynb)
 | 10-11/4 | Advanced Pandas                                        | Martin | Project Topic Approval |HW 6|   |
 | 17-18/4 | Project Work 1                                         | Vítek  |                        |    |   |
 | 24-25/4 | Efficient Computing                                    | Martin |                        |    |   |
-| 1-2/5  | Project Work 2                                          |        |                        |    |   |
-| 8-9/5  | Guest Lecture                                           | Guest  |                        |    |   |
+| 1-2/5  | Project Work 2                                          | Vítek  |                        |    |   |
+| 8-9/5  | Introduction to GeoData (Guest Lecture)                 | Guest  |                        |    |   |
+| 15-16/5 | Parallelization                                        | Martin |                       |    |   |
